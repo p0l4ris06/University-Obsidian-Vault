@@ -7,5 +7,11 @@
   "omnisearch",
   "obsidian-zotero-desktop-connector",
   "obsidian-style-settings",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-minimal-settings",
+  "highlightr-plugin",
+  "symbols-prettifier",
+  "better-search-views",
+  "colored-tags-wrangler",
+  "tag-wrangler"
 ]

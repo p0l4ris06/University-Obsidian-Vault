@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "d4ec7f3f40a7a259",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remote-vault/Homepage.md",
+                "file": "Central Nervous System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "Central Nervous System"
             }
           }
         ]
@@ -33,6 +33,7 @@
       {
         "id": "88fd1dd070a16834",
         "type": "tabs",
+        "dimension": 57.47241725175527,
         "children": [
           {
             "id": "750c3db43748db30",
@@ -74,10 +75,54 @@
             }
           }
         ]
+      },
+      {
+        "id": "c99e65b12b5e019d",
+        "type": "tabs",
+        "dimension": 42.52758274824473,
+        "children": [
+          {
+            "id": "e81145485b14efbc",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Central Nervous System.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 3,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.36288736930121174,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Central Nervous System"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "1b4a26434736ed90",
@@ -139,10 +184,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remote-vault/Homepage.md"
+                "file": "Central Nervous System.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Homepage"
+              "title": "Outline of Central Nervous System"
             }
           }
         ]
@@ -166,36 +211,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "750c3db43748db30",
   "lastOpenFiles": [
-    "remote-vault/AS1A/E2 - Cells to system/Organ systems.md",
-    "Pasted image 20241110163717.png",
-    "Nervous System.md",
-    "Digestive System.md",
-    "remote-vault/AS1A/E2 - Cells to system/Respiratory System.md",
-    "remote-vault/AS1A/E2 - Cells to system/Lymphatic System.md",
+    "Pasted image 20241111223732.png",
+    "remote-vault/AS1A/E3 - The nervous system/The Nervous System.md",
+    "Central Nervous System.md",
+    "remote-vault/AS1A/E3 - The nervous system/Neurodevelopment.md",
+    "remote-vault/AS1A/ANAT10008.md",
+    "remote-vault/AS1A/E3 - The nervous system/Sensory Neuron.md",
+    "remote-vault/AS1A/E3 - The nervous system/Neuron.md",
+    "remote-vault/AS1A/E3 - The nervous system/Nervous System.md",
+    "remote-vault/AS1A/AS1A Definitions/Lissencephalic.md",
+    "remote-vault/AS1A/E3 - The nervous system/Brain development.canvas",
+    "Brain development.md",
+    "remote-vault/AS1A/AS1A Diagrams/Pasted image 20241111213454.png",
+    "remote-vault/AS1A/E3 - The nervous system/Motor Neuron.md",
+    "remote-vault/AS1A/AS1A Diagrams/Pasted image 20241110163717.png",
     "remote-vault/Homepage.md",
-    "remote-vault/AS1A/AS1A Definitions/Integumentary System.md",
-    "remote-vault/AS1A/AS1A Definitions/Musculoskeletal System.md",
-    "remote-vault/AS1A/E2 - Cells to system/Endocrine System.md",
     "remote-vault/AS1A/E2 - Cells to system/Urinary system.md",
-    "remote-vault/AS1A/E2 - Cells to system/Cardiovascular System.md",
-    "remote-vault/AS1A/AS1A Definitions/Fibrous.md",
-    "remote-vault/AS1A/E2 - Cells to system/Epithelial structures - Glands.md",
-    "remote-vault/AS1A/AS1A Definitions/Epidermis.md",
+    "remote-vault/AS1A/E2 - Cells to system/Respiratory System.md",
+    "remote-vault/AS1A/E2 - Cells to system/Organ systems.md",
+    "remote-vault/AS1A/E2 - Cells to system/Lymphatic System.md",
+    "remote-vault/AS1A/E2 - Cells to system/Endocrine System.md",
     "remote-vault/AS1A/E2 - Cells to system/Connective tissue.md",
+    "remote-vault/AS1A/E2 - Cells to system/Cardiovascular System.md",
     "remote-vault/AS1A/AS1A Diagrams/Pasted image 20241110151448.png",
+    "remote-vault/AS1A/AS1A Definitions/Musculoskeletal System.md",
+    "remote-vault/AS1A/AS1A Definitions/Integumentary System.md",
+    "remote-vault/AS1A/AS1A Definitions/Fibrous.md",
+    "remote-vault/AS1A/AS1A Definitions/Epidermis.md",
+    "remote-vault/AS1A/E2 - Cells to system/Digestive System.md",
     "what happens if i do this and push.md",
     "remote-vault/IPP/IPP.md",
-    "AS1A/AS1A Definitions/Homepage.md",
-    "University-Obsidian-Vault/University/PPVN/TPR and BP.md",
-    "University-Obsidian-Vault/University/PPVN/Respiratory noise.md",
-    "University-Obsidian-Vault/University/PPVN/Brachycephalic Obstructive Airway Syndrome.md",
     "University-Obsidian-Vault/University/PPVN",
-    "University-Obsidian-Vault/University/AS1A/E2 - Cells to system/Embryonic Tissue Derivatives - Ectoderm.md",
-    "University-Obsidian-Vault/University/AS1A/E2 - Cells to system/Neurulation.md",
-    "University-Obsidian-Vault/University/AS1A/E2 - Cells to system/Trilaminar disc.md",
-    "University-Obsidian-Vault/University/AS1A/E2 - Cells to system/Morula.md",
     "University-Obsidian-Vault/University/AS1A/E2 - Cells to system",
     "University-Obsidian-Vault/University/AS1A/AS1A Diagrams/Pasted image 20241105211317.png",
     "University-Obsidian-Vault/University/AS1A/AS1A Diagrams/Pasted image 20241105213143.png",
@@ -211,7 +259,6 @@
     "Vault sync",
     "New folder",
     "AS1A/AS1A Diagrams/Pasted image 20241105213143.png",
-    "AS1A/AS1A Diagrams/Pasted image 20241105211400.png",
-    "AS1A/AS1A Diagrams/Pasted image 20241105211317.png"
+    "AS1A/AS1A Diagrams/Pasted image 20241105211400.png"
   ]
 }
