@@ -24,7 +24,7 @@
 
 ## CNS vs PNS
 ### [[Central Nervous System]]
-- [[Brain]] and [[Spinal cord]]
+- [[Brain]] and [[Spinal Cord]]
 ### [[Peripheral Nervous System]] 
 - [[Cranial nerves]] and [[Spinal nerves]]
 
