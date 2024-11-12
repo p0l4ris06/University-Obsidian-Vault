@@ -18,7 +18,7 @@
 - [[Peripheral Nervous System]]
 - [[Afferent]]
 - [[Efferent]]
-- [[Somatic Nervous System]]
+- [[Somatic nervous system]]
 - [[Visceral Nervous System]]
 
 
@@ -29,7 +29,7 @@
 - [[Cranial nerves]] and [[Spinal nerves]]
 
 ## Visceral vs Somatic
-### [[Somatic Nervous System]]
+### [[Somatic nervous system]]
 - Voluntary
 
 ### [[Visceral Nervous System]]

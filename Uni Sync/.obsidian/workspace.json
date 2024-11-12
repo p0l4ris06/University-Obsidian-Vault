@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Somatic nervous system.md",
+                "file": "remote-vault/AS1A/E3 - The nervous system/Somatic nervous system.md",
                 "mode": "source",
                 "source": false
               },
@@ -64,13 +64,13 @@
             }
           },
           {
-            "id": "8bb2632f369b3163",
+            "id": "c4a9c602bf8be563",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -259,15 +259,17 @@
       "obsidian-kanban:Create new board": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
-      "3d-graph:3D Graph": false
+      "3d-graph:3D Graph": false,
+      "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "8bb2632f369b3163",
+  "active": "c4a9c602bf8be563",
   "lastOpenFiles": [
+    "remote-vault/AS1A/E3 - The nervous system/Spinothalamic pathways.md",
+    "remote-vault/AS1A/E3 - The nervous system/Somatic nervous system.md",
     "remote-vault/AS1A/E3 - The nervous system/Central Nervous System.md",
     "remote-vault/AS1A/E3 - The nervous system/Cerebrum.md",
     "remote-vault/AS1A/E3 - The nervous system/Nerve plexuses.md",
-    "Somatic nervous system.md",
     "remote-vault/AS1A/E3 - The nervous system/Brain.md",
     "remote-vault/AS1A/AS1A Diagrams/Pasted image 20241112144237.png",
     "remote-vault/AS1A/E3 - The nervous system/Cranial nerves.md",
@@ -295,7 +297,6 @@
     "remote-vault/AS1A/E2 - Cells to system/Connective tissue.md",
     "remote-vault/AS1A/E2 - Cells to system/Cardiovascular System.md",
     "remote-vault/AS1A/AS1A Diagrams/Pasted image 20241110151448.png",
-    "remote-vault/AS1A/AS1A Definitions/Musculoskeletal System.md",
     "University-Obsidian-Vault/University/PPVN",
     "University-Obsidian-Vault/University/AS1A/E2 - Cells to system",
     "University-Obsidian-Vault/University/AS1A/AS1A Diagrams/Pasted image 20241105211317.png",
