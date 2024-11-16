@@ -18,18 +18,18 @@
 - [[Peripheral Nervous System]]
 - [[Afferent]]
 - [[Efferent]]
-- [[Somatic Nervous System]]
+- [[Somatic nervous system]]
 - [[Visceral Nervous System]]
 
 
 ## CNS vs PNS
 ### [[Central Nervous System]]
-- [[Brain]] and [[Spinal cord]]
+- [[Brain]] and [[Spinal Cord]]
 ### [[Peripheral Nervous System]] 
 - [[Cranial nerves]] and [[Spinal nerves]]
 
 ## Visceral vs Somatic
-### [[Somatic Nervous System]]
+### [[Somatic nervous system]]
 - Voluntary
 
 ### [[Visceral Nervous System]]
