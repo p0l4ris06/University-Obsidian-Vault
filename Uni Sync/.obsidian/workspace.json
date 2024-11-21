@@ -27,16 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e950233e2ea34ea7",
+    "id": "f2e21cbeabcb8390",
     "type": "split",
     "children": [
       {
-        "id": "88fd1dd070a16834",
+        "id": "676354f0ed6fc943",
         "type": "tabs",
-        "dimension": 57.47241725175527,
         "children": [
           {
-            "id": "750c3db43748db30",
+            "id": "e46b8c23e030807c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +47,7 @@
             }
           },
           {
-            "id": "1c075ea4f47b3805",
+            "id": "90be2b113d094f28",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +64,7 @@
             }
           },
           {
-            "id": "6182840e39d149e3",
+            "id": "b6455388df5d548a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -75,70 +74,25 @@
             }
           }
         ]
-      },
-      {
-        "id": "c99e65b12b5e019d",
-        "type": "tabs",
-        "dimension": 42.52758274824473,
-        "children": [
-          {
-            "id": "e81145485b14efbc",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "remote-vault/Homepage.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 3,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": true,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.36288736930121174,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Homepage"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "1b4a26434736ed90",
+    "id": "39b124a7f4185415",
     "type": "split",
     "children": [
       {
-        "id": "b06d72930090d345",
+        "id": "083fb476b005e928",
         "type": "tabs",
         "children": [
           {
-            "id": "5577ae8673a8cb0b",
+            "id": "2abab984d2081eda",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AS1A/E1 - Introduction to practical anatomy/Introduction to practical anatomy study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,25 +102,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Introduction to practical anatomy study"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "930a540cb2fcfe49",
+            "id": "299066b27b7c9a18",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AS1A/E1 - Introduction to practical anatomy/Introduction to practical anatomy study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Introduction to practical anatomy study"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "218b2ff10e8456f0",
+            "id": "2ad90cd689824a80",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -179,7 +132,7 @@
             }
           },
           {
-            "id": "1641c46a8b4768ca",
+            "id": "9260665e49004b9f",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -208,57 +161,12 @@
       "homepage:Open homepage": false,
       "obsidian-kanban:Create new board": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "3d-graph-new:Global 3D Graph": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "remote-vault/Homepage.md",
-    "remote-vault/AS1A/E3 - The nervous system/Spinothalamic pathways.md",
-    "remote-vault/AS1A/E3 - The nervous system/Spinal Cord.md",
-    "remote-vault/AS1A/E3 - The nervous system/Somatic nervous system.md",
-    "remote-vault/AS1A/E3 - The nervous system/Nerve plexuses.md",
-    "remote-vault/AS1A/E3 - The nervous system/Hindbrain.md",
-    "remote-vault/AS1A/E3 - The nervous system/Cranial nerves.md",
-    "remote-vault/AS1A/E3 - The nervous system/Cerebrum.md",
-    "remote-vault/AS1A/E3 - The nervous system/Central Nervous System.md",
-    "remote-vault/AS1A/E3 - The nervous system/Brain.md",
-    "remote-vault/AS1A/AS1A Diagrams/Pasted image 20241112144237.png",
-    "remote-vault/AS1A/AS1A Diagrams/Pasted image 20241111223732.png",
-    "Visceral Nervous System.md",
-    "Special senses - receptors and pathways.md",
-    "Pasted image 20241114134551.png",
-    "Parasympathetic.md",
-    "Muscles, tendons and ligaments.md",
-    "Central Nervous System.md",
-    "Pasted image 20241111223732.png",
-    "remote-vault/AS1A/E3 - The nervous system/The Nervous System.md",
-    "remote-vault/AS1A/E3 - The nervous system/Neurodevelopment.md",
-    "remote-vault/AS1A/ANAT10008.md",
-    "remote-vault/AS1A/E3 - The nervous system/Sensory Neuron.md",
-    "remote-vault/AS1A/E3 - The nervous system/Neuron.md",
-    "remote-vault/AS1A/E3 - The nervous system/Nervous System.md",
-    "remote-vault/AS1A/AS1A Definitions/Lissencephalic.md",
-    "remote-vault/AS1A/E3 - The nervous system/Brain development.canvas",
-    "Brain development.md",
-    "remote-vault/AS1A/AS1A Diagrams/Pasted image 20241111213454.png",
-    "remote-vault/AS1A/E3 - The nervous system/Motor Neuron.md",
-    "remote-vault/AS1A/AS1A Diagrams/Pasted image 20241110163717.png",
-    "remote-vault/AS1A/E2 - Cells to system/Urinary system.md",
-    "remote-vault/AS1A/AS1A Diagrams/Pasted image 20241110151448.png",
-    "University-Obsidian-Vault/University/PPVN",
-    "University-Obsidian-Vault/University/AS1A/E2 - Cells to system",
-    "University-Obsidian-Vault/University/AS1A/AS1A Diagrams/Pasted image 20241105211317.png",
-    "University-Obsidian-Vault/University/AS1A/AS1A Diagrams/Pasted image 20241105213143.png",
-    "University-Obsidian-Vault/University/AS1A/AS1A Diagrams/Pasted image 20241105211400.png",
-    "University-Obsidian-Vault/University/AS1A/E1 - Introduction to practical anatomy",
-    "University-Obsidian-Vault/University/AS1A/AS1A Diagrams",
-    "University-Obsidian-Vault/University/AS1A/AS1A Definitions",
-    "University-Obsidian-Vault/University/AS1A",
-    "University-Obsidian-Vault/University",
-    "University-Obsidian-Vault",
-    "Vault sync",
-    "New folder"
+    "remote-vault/Homepage.md"
   ]
 }
