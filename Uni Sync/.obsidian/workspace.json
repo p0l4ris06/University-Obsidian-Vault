@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remote-vault/Homepage.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "source": false
               },
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Assignments",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,23 +72,34 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "f961d10160aaccf2",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 275.5
   },
   "right": {
     "id": "39b124a7f4185415",
     "type": "split",
     "children": [
       {
-        "id": "083fb476b005e928",
+        "id": "d691a6cb7184a5e8",
         "type": "tabs",
         "children": [
           {
-            "id": "2abab984d2081eda",
+            "id": "f3be24355e7adfea",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -106,7 +117,7 @@
             }
           },
           {
-            "id": "299066b27b7c9a18",
+            "id": "031b58f8d8cc0d1e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -119,7 +130,7 @@
             }
           },
           {
-            "id": "2ad90cd689824a80",
+            "id": "e96270c9def46023",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,12 +143,12 @@
             }
           },
           {
-            "id": "9260665e49004b9f",
+            "id": "36cd9008219183ef",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "remote-vault/Homepage.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-list",
               "title": "Outline of Homepage"
@@ -147,18 +158,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 380.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "homepage:Open homepage": false,
       "obsidian-kanban:Create new board": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
@@ -167,9 +178,38 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "remote-vault/Homepage.md",
-    "Pasted image 20241121115142.png",
-    "Bones and Joints.md"
+    "My Units/AS1A/E5 - Cardiovascular system",
+    "My Units/AS1A/E4 - Locomotion/E4 - Locomotion.md",
+    "My Units/AS1A/E4 - Locomotion/Muscles, tendons and ligaments.md",
+    "My Units/AS1A/E4 - Locomotion/Evolution of Tetrapod Limbs.md",
+    "My Units/AS1A/E4 - Locomotion/Fundamentals of Locomotor Anatomy.md",
+    "My Units/AS1A/AS1A Definitions/Synovial.md",
+    "My Units/AS1A/AS1A Diagrams/Pasted image 20241124160903.png",
+    "My Units/AS1A/AS1A Diagrams/Pasted image 20241124160851.png",
+    "My Units/AS1A/AS1A.md",
+    "My Courses/Anatomy.md",
+    "Homepage.md",
+    "Tags",
+    "Exams/AS1A End of Semester 1.md",
+    "My Units/AS1A/AS1A Diagrams/PLACEHOLDER-AS1A-DIAGRAMS.md",
+    "Assignments/Sustainability essay.md",
+    "Assignments/Reflective Video Presentation.md",
+    "Assignments/Assignments.md",
+    "Exams",
+    "My Courses/My Courses.md",
+    "My Courses/IPP.md",
+    "My Courses/PPVN.md",
+    "Vault.md",
+    "My Units/AS1A/E3 - The nervous system/E3 - The nervous system.md",
+    "My Units/AS1A/E2 - Cells to system/E2 - Cells to system.md",
+    "My Units/AS1A/E1 - Introduction to practical anatomy/E1 - Introduction to practical anatomy.md",
+    "My Units/IPP/IPP.md",
+    "Untitled.md",
+    "My Units/My Units.md",
+    "Anatomy.md",
+    "My Courses",
+    "Untitled 1.md",
+    "Assignments",
+    "My Units/AS1A/AS1A Diagrams/Pasted image 20241121115142.png"
   ]
 }
