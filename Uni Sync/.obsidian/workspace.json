@@ -14,7 +14,11 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
+<<<<<<< Updated upstream
               "title": "New tab"
+=======
+              "title": "Homepage"
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -178,9 +182,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< Updated upstream
               "state": {},
               "icon": "lucide-list",
               "title": "Outline"
+=======
+              "state": {
+                "file": "remote-vault/Homepage.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Homepage"
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -205,7 +217,11 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
+<<<<<<< Updated upstream
   "active": "72f581b017cb4f4d",
+=======
+  "active": "e7a7b303c61786dc",
+>>>>>>> Stashed changes
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "remote-vault/Homepage.md",
