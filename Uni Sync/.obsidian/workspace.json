@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "246d69344132f253",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "72f581b017cb4f4d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remote-vault/Homepage.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "New tab"
             }
           }
         ]
@@ -87,7 +83,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "remote-vault/Homepage.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -115,7 +110,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Homepage"
+              "title": "Graph view"
             }
           }
         ]
@@ -183,11 +178,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "remote-vault/Homepage.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Homepage"
+              "title": "Outline"
             }
           }
         ]
@@ -212,53 +205,55 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "72f581b017cb4f4d",
   "lastOpenFiles": [
-    "remote-vault/Homepage.md",
-    "Bones and Joints.md",
-    "Pasted image 20241121115142.png",
-    "Parasympathetic.md",
-    "Muscles, tendons and ligaments.md",
     "conflict-files-obsidian-git.md",
-    "Special senses - receptors and pathways.md",
-    "Visceral Nervous System.md",
-    "Pasted image 20241114134551.png",
-    "remote-vault/AS1A/E3 - The nervous system/The Nervous System.md",
-    "remote-vault/AS1A/E4 - Locomotion",
-    "remote-vault/AS1A/E3 - The nervous system/Spinothalamic pathways.md",
-    "remote-vault/AS1A/E3 - The nervous system/Somatic nervous system.md",
-    "remote-vault/AS1A/E3 - The nervous system/Central Nervous System.md",
-    "remote-vault/AS1A/E3 - The nervous system/Cerebrum.md",
-    "remote-vault/AS1A/E3 - The nervous system/Nerve plexuses.md",
-    "remote-vault/AS1A/E3 - The nervous system/Brain.md",
-    "remote-vault/AS1A/AS1A Diagrams/Pasted image 20241112144237.png",
-    "remote-vault/AS1A/E3 - The nervous system/Cranial nerves.md",
-    "remote-vault/AS1A/E3 - The nervous system/Hindbrain.md",
-    "remote-vault/AS1A/E3 - The nervous system/Brain development.canvas",
-    "remote-vault/AS1A/E3 - The nervous system/Spinal Cord.md",
-    "remote-vault/AS1A/E3 - The nervous system/Neuron.md",
-    "remote-vault/AS1A/E3 - The nervous system/Sensory Neuron.md",
-    "remote-vault/AS1A/E3 - The nervous system/Neurodevelopment.md",
-    "remote-vault/AS1A/E3 - The nervous system/Nervous System.md",
-    "remote-vault/AS1A/E3 - The nervous system/Motor Neuron.md",
-    "remote-vault/AS1A/AS1A Diagrams/Pasted image 20241111223732.png",
-    "remote-vault/AS1A/ANAT10008.md",
-    "remote-vault/AS1A/AS1A Definitions/Lissencephalic.md",
-    "Brain development.md",
-    "remote-vault/AS1A/AS1A Diagrams/Pasted image 20241111213454.png",
-    "remote-vault/AS1A/AS1A Diagrams/Pasted image 20241110163717.png",
-    "remote-vault/AS1A/AS1A Diagrams/Pasted image 20241110151448.png",
-    "University-Obsidian-Vault/University/PPVN",
-    "University-Obsidian-Vault/University/AS1A/E2 - Cells to system",
-    "University-Obsidian-Vault/University/AS1A/AS1A Diagrams/Pasted image 20241105211317.png",
-    "University-Obsidian-Vault/University/AS1A/AS1A Diagrams/Pasted image 20241105213143.png",
-    "University-Obsidian-Vault/University/AS1A/AS1A Diagrams/Pasted image 20241105211400.png",
-    "University-Obsidian-Vault/University/AS1A/E1 - Introduction to practical anatomy",
-    "University-Obsidian-Vault/University/AS1A/AS1A Diagrams",
-    "University-Obsidian-Vault/University/AS1A/AS1A Definitions",
-    "University-Obsidian-Vault/University/AS1A",
-    "University-Obsidian-Vault/University",
-    "University-Obsidian-Vault",
-    "Vault sync"
+    "remote-vault/Homepage.md",
+    "My Units/AS1A/E3 - The nervous system/Visceral Nervous System.md",
+    "My Units/AS1A/E3 - The nervous system/The Nervous System.md",
+    "My Units/AS1A/E3 - The nervous system/Spinothalamic pathways.md",
+    "My Units/AS1A/E3 - The nervous system/Spinal Cord.md",
+    "My Units/AS1A/E3 - The nervous system/Special senses - receptors and pathways.md",
+    "My Units/AS1A/E3 - The nervous system/Special senses - organs.md",
+    "My Units/AS1A/E3 - The nervous system/Somatic nervous system.md",
+    "My Units/AS1A/E3 - The nervous system/Sensory Neuron.md",
+    "My Units/AS1A/E3 - The nervous system/Parasympathetic.md",
+    "My Units/AS1A/E3 - The nervous system/Neuron.md",
+    "My Units/AS1A/E3 - The nervous system/Neurodevelopment.md",
+    "My Units/AS1A/E3 - The nervous system/Nervous System.md",
+    "My Units/AS1A/E3 - The nervous system/Nerve plexuses.md",
+    "My Units/AS1A/E3 - The nervous system/Motor Neuron.md",
+    "My Units/AS1A/E3 - The nervous system/Hindbrain.md",
+    "My Units/AS1A/E3 - The nervous system/E3 - The nervous system.md",
+    "My Units/AS1A/E3 - The nervous system/Cranial nerves.md",
+    "My Units/AS1A/E3 - The nervous system/Cerebrum.md",
+    "My Units/AS1A/E3 - The nervous system/Central Nervous System.md",
+    "My Units/AS1A/E3 - The nervous system/Brain.md",
+    "My Units/AS1A/E3 - The nervous system/Brain development.canvas",
+    "My Units/AS1A/E4 - Locomotion/Muscles, tendons and ligaments.md",
+    "My Units/AS1A/E4 - Locomotion/Fundamentals of Locomotor Anatomy.md",
+    "My Units/AS1A/E4 - Locomotion/Evolution of Tetrapod Limbs.md",
+    "My Units/AS1A/E4 - Locomotion/E4 - Locomotion.md",
+    "My Units/AS1A/AS1A Diagrams/Pasted image 20241114134551.png",
+    "My Units/AS1A/AS1A Diagrams/Pasted image 20241124160903.png",
+    "My Units/AS1A/AS1A Diagrams/Pasted image 20241124160851.png",
+    "My Units/AS1A/AS1A Diagrams/Pasted image 20241121115142.png",
+    "My Units/AS1A/AS1A Diagrams/Pasted image 20241118205617.png",
+    "My Units/AS1A/AS1A Diagrams/Pasted image 20241118205222.png",
+    "My Units/AS1A/AS1A Diagrams/Pasted image 20241112144237.png",
+    "My Units/AS1A/AS1A Diagrams/Pasted image 20241111223732.png",
+    "My Units/AS1A/AS1A Diagrams/Pasted image 20241111213454.png",
+    "My Units/AS1A/AS1A Diagrams/Pasted image 20241110163717.png",
+    "My Units/AS1A/E3 - The nervous system",
+    "My Units/AS1A/E4 - Locomotion",
+    "My Units/AS1A/E1 - Introduction to practical anatomy",
+    "My Units/AS1A/E2 - Cells to system",
+    "My Units/AS1A/AS1A Diagrams",
+    "My Units/AS1A/AS1A Definitions",
+    "My Units/PPVN",
+    "My Units/IPP",
+    "My Units/AS1A",
+    "My Units",
+    "remote-vault/AS1A/E3 - The nervous system/Brain development.canvas"
   ]
 }

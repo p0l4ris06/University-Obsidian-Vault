@@ -1,3 +1,6 @@
 {
-  "cssTheme": "Blue Topaz"
+  "cssTheme": "Shimmering Focus",
+  "enabledCssSnippets": [
+    "Dashboard"
+  ]
 }
