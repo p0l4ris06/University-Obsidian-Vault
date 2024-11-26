@@ -11,14 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Homepage.md",
-                "mode": "source",
-                "source": false
+                "path": "My Units/AS1A/E5 - Cardiovascular system"
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "E5 - Cardiovascular system"
             }
           }
         ]
@@ -27,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "90447e9978151d47",
+    "id": "def103f573dd6b2e",
     "type": "split",
     "children": [
       {
-        "id": "233181bf84d59238",
+        "id": "8911c284480a663b",
         "type": "tabs",
         "children": [
           {
-            "id": "fe8bdf7d125e5983",
+            "id": "9dd31b54a39f658f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +45,7 @@
             }
           },
           {
-            "id": "57047b5788cd602a",
+            "id": "1fb1024ff474dd23",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +62,7 @@
             }
           },
           {
-            "id": "ca040ac777c1c466",
+            "id": "f47f9e014c277cc9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,7 +72,7 @@
             }
           },
           {
-            "id": "ff07806c0e67d47b",
+            "id": "084e7dbe69db9394",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -91,15 +89,15 @@
     "width": 300
   },
   "right": {
-    "id": "a3b85fa82b55f5f9",
+    "id": "a003cf1cdae7ebb9",
     "type": "split",
     "children": [
       {
-        "id": "a33e5a7d8a1d9acc",
+        "id": "92a834bbfeb0be30",
         "type": "tabs",
         "children": [
           {
-            "id": "cc2f71fc65e2b3a7",
+            "id": "5d3f6712eec73c7a",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -117,7 +115,7 @@
             }
           },
           {
-            "id": "5f5f4dc4aabd1c23",
+            "id": "84cab28e317d2fe3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -130,7 +128,7 @@
             }
           },
           {
-            "id": "77be6ba1ae2c3c53",
+            "id": "5a36997ddff05d0d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -143,15 +141,15 @@
             }
           },
           {
-            "id": "b8f4e15af3e9ec6a",
+            "id": "ce7bfb277fb773fd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md"
+                "file": "conflict-files-obsidian-git.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Homepage"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           }
         ]
@@ -176,16 +174,13 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "084e7dbe69db9394",
   "lastOpenFiles": [
-    "My Units/AS1A/E5 - Cardiovascular system/Blood, blood vessels and the mammalian heart.md",
     "My Units/AS1A/E5 - Cardiovascular system/E5 - Cardiovascular system.md",
-    "My Units/AS1A/E5 - Cardiovascular system",
-    "My Units/AS1A/E3 - The nervous system/E3 - The nervous system.md",
-    "Exams/AS1A End of Semester 1.md",
-    "Homepage.md",
+    "conflict-files-obsidian-git.md",
     "Tags/#ppvn",
     "Tags/#anat10008",
-    "Tags"
+    "My Units/AS1A/E5 - Cardiovascular system/Blood, blood vessels and the mammalian heart.md",
+    "Homepage.md"
   ]
 }
