@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "246d69344132f253",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "72f581b017cb4f4d",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-<<<<<<< Updated upstream
-              "title": "New tab"
-=======
               "title": "Homepage"
->>>>>>> Stashed changes
             }
           }
         ]
@@ -27,16 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e950233e2ea34ea7",
+    "id": "90447e9978151d47",
     "type": "split",
     "children": [
       {
-        "id": "88fd1dd070a16834",
+        "id": "233181bf84d59238",
         "type": "tabs",
-        "dimension": 57.47241725175527,
         "children": [
           {
-            "id": "750c3db43748db30",
+            "id": "fe8bdf7d125e5983",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +47,12 @@
             }
           },
           {
-            "id": "1c075ea4f47b3805",
+            "id": "57047b5788cd602a",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "visceral nervous system",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +64,7 @@
             }
           },
           {
-            "id": "6182840e39d149e3",
+            "id": "ca040ac777c1c466",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,71 +72,38 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          }
-        ]
-      },
-      {
-        "id": "c99e65b12b5e019d",
-        "type": "tabs",
-        "dimension": 42.52758274824473,
-        "children": [
+          },
           {
-            "id": "e81145485b14efbc",
+            "id": "ff07806c0e67d47b",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
-              "state": {
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 3,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": true,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.20107329127469117,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "1b4a26434736ed90",
+    "id": "a3b85fa82b55f5f9",
     "type": "split",
     "children": [
       {
-        "id": "b06d72930090d345",
+        "id": "a33e5a7d8a1d9acc",
         "type": "tabs",
         "children": [
           {
-            "id": "5577ae8673a8cb0b",
+            "id": "cc2f71fc65e2b3a7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AS1A/E1 - Introduction to practical anatomy/Introduction to practical anatomy study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,25 +113,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Introduction to practical anatomy study"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "930a540cb2fcfe49",
+            "id": "5f5f4dc4aabd1c23",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AS1A/E1 - Introduction to practical anatomy/Introduction to practical anatomy study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Introduction to practical anatomy study"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "218b2ff10e8456f0",
+            "id": "77be6ba1ae2c3c53",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -178,21 +143,15 @@
             }
           },
           {
-            "id": "1641c46a8b4768ca",
+            "id": "b8f4e15af3e9ec6a",
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< Updated upstream
-              "state": {},
-              "icon": "lucide-list",
-              "title": "Outline"
-=======
               "state": {
-                "file": "remote-vault/Homepage.md"
+                "file": "Homepage.md"
               },
               "icon": "lucide-list",
               "title": "Outline of Homepage"
->>>>>>> Stashed changes
             }
           }
         ]
@@ -217,59 +176,16 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "72f581b017cb4f4d",
-=======
   "active": "e7a7b303c61786dc",
->>>>>>> Stashed changes
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "remote-vault/Homepage.md",
-    "My Units/AS1A/E3 - The nervous system/Visceral Nervous System.md",
-    "My Units/AS1A/E3 - The nervous system/The Nervous System.md",
-    "My Units/AS1A/E3 - The nervous system/Spinothalamic pathways.md",
-    "My Units/AS1A/E3 - The nervous system/Spinal Cord.md",
-    "My Units/AS1A/E3 - The nervous system/Special senses - receptors and pathways.md",
-    "My Units/AS1A/E3 - The nervous system/Special senses - organs.md",
-    "My Units/AS1A/E3 - The nervous system/Somatic nervous system.md",
-    "My Units/AS1A/E3 - The nervous system/Sensory Neuron.md",
-    "My Units/AS1A/E3 - The nervous system/Parasympathetic.md",
-    "My Units/AS1A/E3 - The nervous system/Neuron.md",
-    "My Units/AS1A/E3 - The nervous system/Neurodevelopment.md",
-    "My Units/AS1A/E3 - The nervous system/Nervous System.md",
-    "My Units/AS1A/E3 - The nervous system/Nerve plexuses.md",
-    "My Units/AS1A/E3 - The nervous system/Motor Neuron.md",
-    "My Units/AS1A/E3 - The nervous system/Hindbrain.md",
+    "My Units/AS1A/E5 - Cardiovascular system/Blood, blood vessels and the mammalian heart.md",
+    "My Units/AS1A/E5 - Cardiovascular system/E5 - Cardiovascular system.md",
+    "My Units/AS1A/E5 - Cardiovascular system",
     "My Units/AS1A/E3 - The nervous system/E3 - The nervous system.md",
-    "My Units/AS1A/E3 - The nervous system/Cranial nerves.md",
-    "My Units/AS1A/E3 - The nervous system/Cerebrum.md",
-    "My Units/AS1A/E3 - The nervous system/Central Nervous System.md",
-    "My Units/AS1A/E3 - The nervous system/Brain.md",
-    "My Units/AS1A/E3 - The nervous system/Brain development.canvas",
-    "My Units/AS1A/E4 - Locomotion/Muscles, tendons and ligaments.md",
-    "My Units/AS1A/E4 - Locomotion/Fundamentals of Locomotor Anatomy.md",
-    "My Units/AS1A/E4 - Locomotion/Evolution of Tetrapod Limbs.md",
-    "My Units/AS1A/E4 - Locomotion/E4 - Locomotion.md",
-    "My Units/AS1A/AS1A Diagrams/Pasted image 20241114134551.png",
-    "My Units/AS1A/AS1A Diagrams/Pasted image 20241124160903.png",
-    "My Units/AS1A/AS1A Diagrams/Pasted image 20241124160851.png",
-    "My Units/AS1A/AS1A Diagrams/Pasted image 20241121115142.png",
-    "My Units/AS1A/AS1A Diagrams/Pasted image 20241118205617.png",
-    "My Units/AS1A/AS1A Diagrams/Pasted image 20241118205222.png",
-    "My Units/AS1A/AS1A Diagrams/Pasted image 20241112144237.png",
-    "My Units/AS1A/AS1A Diagrams/Pasted image 20241111223732.png",
-    "My Units/AS1A/AS1A Diagrams/Pasted image 20241111213454.png",
-    "My Units/AS1A/AS1A Diagrams/Pasted image 20241110163717.png",
-    "My Units/AS1A/E3 - The nervous system",
-    "My Units/AS1A/E4 - Locomotion",
-    "My Units/AS1A/E1 - Introduction to practical anatomy",
-    "My Units/AS1A/E2 - Cells to system",
-    "My Units/AS1A/AS1A Diagrams",
-    "My Units/AS1A/AS1A Definitions",
-    "My Units/PPVN",
-    "My Units/IPP",
-    "My Units/AS1A",
-    "My Units",
-    "remote-vault/AS1A/E3 - The nervous system/Brain development.canvas"
+    "Exams/AS1A End of Semester 1.md",
+    "Homepage.md",
+    "Tags/#ppvn",
+    "Tags/#anat10008",
+    "Tags"
   ]
 }
